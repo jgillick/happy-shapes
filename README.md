@@ -5,7 +5,7 @@ classic [Happy Families](https://en.wikipedia.org/wiki/Happy_Families).
 # Description
 This github repo is used for generating the cards, which can then be printed out.
 
-# Install and Generate
+# Install and Generate Cards
 
 Here's how to install everything and generate a new deck.
 
